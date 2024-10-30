@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ahl8er_IuEq92YfDwtTKbQ" Reference="DSh0ncHYQkGwkvM3Ylrf-Q/Cr76GrFoikCm98xlziibXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="global.jdsports.com/search/nike" CVScreenId="f1007190-768b-4573-8e6b-8a4a8a4e65f0" CvElementArea="1408, 145, 133, 52" CvTextArea="1449, 164, 51, 13" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="1410, 202, 130, 50" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='srchButton' tag='INPUT' type='submit' class='' aaname='Search' check:text='Search' /&gt;" Guid="1278ead8-2c3f-4ebc-9d97-992724400382" ScopeSelectorArgument="&lt;html app='msedge.exe' title='nike - JD Sports Global' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4365a541c930d544192f5d483f207a88.png" xmlns="">0JplHkhbJW0qUkNn_eEyyBg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge JD Sports Global  Shop Online Now",
+  "Type": "Screen",
+  "Id": "bkbMJFgjnECAQaChgymb6w",
+  "Reference": "DSh0ncHYQkGwkvM3Ylrf-Q/bkbMJFgjnECAQaChgymb6w",
+  "ParentRef": "DSh0ncHYQkGwkvM3Ylrf-Q/JOol2_Bz8Uit5bN89deaUg",
+  "Created": "2024-10-23T13:33:53.2420575Z",
+  "Updated": "2024-10-23T13:33:53.2420575Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
